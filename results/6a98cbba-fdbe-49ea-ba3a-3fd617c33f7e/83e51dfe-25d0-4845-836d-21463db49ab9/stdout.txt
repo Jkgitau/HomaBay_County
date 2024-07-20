@@ -1,0 +1,14 @@
+----------------------------------------
+srun job start: Sat Jul 20 08:34:01 CDT 2024
+Job ID: 6372036
+Username: pzu4474
+Queue: b1139testnode
+Account: b1139
+----------------------------------------
+The following variables are not
+guaranteed to be the same in the
+prologue and the job run script
+----------------------------------------
+PATH (in prologue) : /software/singularity/3.8.1/bin:/usr/sbin:/projects/b1139/environments/emodpy_alt/bin:/software/supplemental/libiconv/1.14/bin:/software/R/4.1.1/bin:/software/RStudio-desk/1.4.1717/bin:/software/tesseract/5.3.0/bin:/software/leptonica/1.83.1/bin:/software/openjpeg/2.5.0/bin:/software/poppler/0.48-gcc-5/bin:/software/poppler/poppler-data/0.4.7:/software/ImageMagick/7.1.0-31/bin:/software/gcc/8.4.0/bin:/software/supplemental/tk/8.6.12/bin:/software/supplemental/tcl/8.6.12/bin:/software/supplemental/tiff/4.3.0/bin:/software/cairo/1.17.4/bin:/software/supplemental/glib/2.49.4/bin:/software/mpi/openmpi-3.1.3-gcc-8.4.0-RH7/bin:/software/firefox/82:/software/supplemental/gtk+/3.24.24/bin:/hpc/software/spack/opt/spack/linux-rhel7-x86_64/gcc-4.8.5/bzip2-1.0.8-7emst37et6cf3qff2srmvfsjnlykhqr5/bin:/software/texlive/2020/bin/x86_64-linux:/software/texinfo/5.2/bin:/software/curl/7.73.0/bin:/software/java/jdk1.8.0_191/bin:/software/java/jdk1.8.0_191/jre/bin:/software/python/3.8.4/bin:/software/openssl/1.1.1u-scotty/env/bin:/software/git/2.8.2/asciidoc/8.6.9/bin:/software/git/2.8.2/docbook2X/0.8.8/bin:/software/git/2.8.2/xmlto/0.0.28/bin:/software/git/2.8.2/bin:/software/git/2.8.2/libexec:/software/activeperl/5.16/site/bin:/software/activeperl/5.16/bin:/software/db/4.3/bin:/software/supplemental/htslib-1.8/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/lpp/mmfs/bin:/opt/ibutils/bin:/hpc/usertools:/opt/zeek/bin:/home/pzu4474/.local/bin:/home/pzu4474/bin
+WORKDIR is: /home/pzu4474
+----------------------------------------
