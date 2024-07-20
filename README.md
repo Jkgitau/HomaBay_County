@@ -1,4 +1,4 @@
-# FE-2024-examples
+## A repository to simulate the impact of vector based malaria interventions in Homa Bay County 
 Example scripts for 2024 faculty enrichment program in applied malaria modeling at University of Health and Allied Sciences, Ghana in collaboration with Northwestern University.
 
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/FEProgramGhana/FE-2024-Ghana-examples/blob/main/README.md)
